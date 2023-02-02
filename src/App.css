@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+.continer {
+  display: flex;
+  flex-direction: row;
+  padding: 2%;
+  gap: 1%;
+}

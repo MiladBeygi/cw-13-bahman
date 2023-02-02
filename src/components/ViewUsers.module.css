@@ -1,0 +1,41 @@
+ul {
+  margin-top: 10%;
+  list-style: none;
+  width: 65%;
+  display: flex;
+  flex-direction: column;
+  padding: 0 1.5%;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+}
+ul header {
+  margin-top: 1%;
+  font-weight: bold;
+}
+ul header,
+li {
+  display: flex;
+  flex-direction: row;
+  gap: 10%;
+  text-align: center;
+  padding-bottom: 1%;
+  border-bottom: 1px solid #ccc;
+}
+ul li {
+  margin-top: 10px;
+  align-items: center;
+}
+.columnRight {
+  width: 30%;
+  min-width: 100px;
+}
+.columnBtn {
+  width: 40%;
+  min-width: 135px;
+}
+.columnLeft {
+  width: 10%;
+}
+.btn {
+  width: 49%;
+}

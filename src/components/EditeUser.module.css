@@ -1,0 +1,33 @@
+.editUser {
+  width: 30%;
+  margin-top: 10%;
+  /* margin-left: 2.5%; */
+  border: 1px solid #ccc;
+  padding: 2%;
+  border-radius: 12px;
+}
+.inpouts {
+  display: flex;
+  flex-direction: column;
+}
+label {
+  padding-bottom: 3%;
+}
+
+.inpouts div {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5%;
+}
+
+.buttons {
+  margin-top: 3%;
+  width: 100%;
+}
+.buttonLeft {
+  background-color: rgb(61, 128, 206);
+  color: white;
+}
+.buttonRight {
+  background-color: white;
+}
