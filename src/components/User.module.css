@@ -1,0 +1,28 @@
+.columnRight {
+    width: 30%;
+    min-width: 100px;
+}
+
+.columnBtn {
+    width: 40%;
+    min-width: 135px;
+}
+
+.columnLeft {
+    width: 10%;
+}
+
+.btn {
+    width: 49%;
+}
+
+li {
+    margin-top: 10px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+    text-align: center;
+    padding-bottom: 1%;
+    border-bottom: 1px solid #ccc;
+}
